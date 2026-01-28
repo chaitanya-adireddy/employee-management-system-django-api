@@ -1,0 +1,36 @@
+/* Page background */
+body {
+    background-color: bisque;   /* light gray */
+}
+
+/* Heading color */
+h1 {
+    color: #0d6efd;              /* Bootstrap primary blue */
+}
+
+/* Table border color */
+.table {
+    border: 1px solid #dee2e6;
+}
+
+/* Table header background */
+.table thead {
+    background-color: #e9ecef;
+}
+
+/* Link color */
+a {
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+/* Hover effect for links */
+a:hover {
+    color: #0a58ca;
+    text-decoration: underline;
+}
+
+/* Card border color */
+.card {
+    border: 1px solid #dee2e6;
+}
